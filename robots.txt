@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://digital-insights.netlify.app/sitemap.xml
+Sitemap: https://delightful-rock-089858910.3.azurestaticapps.net/sitemap.xml
