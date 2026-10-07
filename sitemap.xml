@@ -1,9 +1,36 @@
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://delightful-rock-089858910.3.azurestaticapps.net/</loc>
   </url>
+
   <url>
     <loc>https://delightful-rock-089858910.3.azurestaticapps.net/why-directory-listings-still-matter-in-2026</loc>
   </url>
+
+  <url>
+    <loc>https://delightful-rock-089858910.3.azurestaticapps.net/how-to-know-when-it-is-time-to-switch.html</loc>
+  </url>
+
+  <url>
+    <loc>https://delightful-rock-089858910.3.azurestaticapps.net/why-one-list-does-not-fit-every-company.html</loc>
+  </url>
+
+  <url>
+    <loc>https://delightful-rock-089858910.3.azurestaticapps.net/choosing-the-right-way-to-handle-directory-submissions.html</loc>
+  </url>
+
+  <url>
+    <loc>https://delightful-rock-089858910.3.azurestaticapps.net/why-one-correct-profile-matters-more-than-fifty-listings.html</loc>
+  </url>
+
+  <url>
+    <loc>https://delightful-rock-089858910.3.azurestaticapps.net/product-hunt-launch-playbook-for-saas-founders.html</loc>
+  </url>
+
 </urlset>
+```
+
